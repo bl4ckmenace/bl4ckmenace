@@ -1,5 +1,5 @@
 
-## Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehrab aka BLACK MENACE
+## Greetings! I'm Mehrab
 
 ### Short Bio :point_down:
 
