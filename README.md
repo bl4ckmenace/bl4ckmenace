@@ -1,5 +1,5 @@
 
-## Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehrab aka BLACK MENACE  :trollface:
+## Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehrab aka BLACK MENACE
 
 ### Short Bio :point_down:
 
@@ -26,5 +26,5 @@
 
 ---
 ### Hit me up :call_me_hand:
-[<img src="https://img.shields.io/badge/Instagram-red?style=red&logo=Instagram&logoColor=white">](https://instagram.com/bl4ckmenace) [<img src="https://img.shields.io/badge/Telegram-blue?style=red&logo=Telegram&logoColor=white">](https://t.me/m3h_h)    
+[<img src="https://img.shields.io/badge/Instagram-red?style=red&logo=Instagram&logoColor=white">](https://instagram.com/bl4ckmenace)  
 
