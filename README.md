@@ -3,10 +3,9 @@
 
 ### Short Bio :point_down:
 
-* **an 18 year old who loves CyberSecurity and its Alternatives**
+* **a 19 year old who loves CyberSecurity and its Alternatives**
 * **Obsessed with Books :books:, Music :musical_note:, Science :dna:**
 * **MetalHead :metal:**
-* **Over/Critical Thinker :brain:**
 * **INTJ :owl:**
 
 ---
